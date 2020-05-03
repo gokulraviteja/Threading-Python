@@ -1,6 +1,6 @@
-### MultiThreading-Python
+# MultiThreading-Python
 
-# Simple Program
+### Simple Program
 
 
 
