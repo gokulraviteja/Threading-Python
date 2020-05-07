@@ -16,9 +16,9 @@ Time = (44.86/50)*100000 = approx 89720 sec = approx 1 day
 
 #### Output -> Creating a new thread for each call
 
-![alt text](https://github.com/gokulraviteja/Threading-Python/blob/master/screenshots/output2.png)
+![alt text](https://github.com/gokulraviteja/Threading-Python/blob/master/screenshots/output21.png)
 
-Time = (5.2/50)*100000 = 10400 sec = approx 3.8 hours
+Time = (2.7/50)*100000 = 5400 sec = approx 1.5 hours
 
 ![alt text](https://github.com/gokulraviteja/Threading-Python/blob/master/screenshots/code2.png)
 
